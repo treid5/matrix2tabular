@@ -1,0 +1,10 @@
+* matrix2tabular
+** Tim Reid
+*** About
+    These functions convert matrices into text that can be copy pasted into a LaTeX tabular environment. The text returned by these programs is in scientific notation. The intention is to make it easy to take the output of some numerical program and put it in a document.
+*** Contents
+    There are three files in this repository
+    - Matrix2Tabular.jl
+    - Matrix2Tabular.m
+    - matrix2tabular.py
+    These files are intended for Julia, Matlab, and the NumPy package of Python respectively.
